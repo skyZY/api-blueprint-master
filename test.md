@@ -69,10 +69,6 @@ public class HelloWord{
 > >
 > 
 > Back to the first level.
-> 
-> 
-
-
 
 ###### 下面是通过工具--paragraph--Math Block
 
@@ -80,11 +76,7 @@ $$
 int a = sin45
 $$
 
-
-
 ---
-
-
 
 ###### 下面是通过工具--Format--HyprLink实现的超链接，在[]内填写跳转的网站描述，()内输入url
 
