@@ -45,3 +45,15 @@ All you base are belong to us.
 | 1   | 学习api blueprint      | 0.5        | 4h     |
 | 2   | 找一块.md的编辑工具          | 0.5        | 1h     |
 | 3   | 下载安装marktext的.md编辑工具 | 0.5        | 1h     |
+
+###### 下面是通过工具-paragraph-Code Fences形成的代码快
+
+```
+public class HelloWord{
+    public static void main(String[] args){
+        Systm.out.println("Hello , Welcome to Java world");
+    }
+}
+```
+
+
