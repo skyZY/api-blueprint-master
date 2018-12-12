@@ -74,6 +74,4 @@ public class HelloWord{
 
 $$
 int a = sin45
-\sum_{i=1}
-
 $$
