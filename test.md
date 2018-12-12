@@ -37,3 +37,11 @@ All you base are belong to us.
 # 测试Atx Head h1(#)
 
 ## 测试Atx Head  h2(##)
+
+###### 下面是一个Table表格的学习使用
+
+| 序号  | g工作内容                 | n难度系数（0~2） | s时间（h） |
+| --- | --------------------- | ---------- | ------ |
+| 1   | x学习api blueprint      | 0.5        | 4h     |
+| 2   | z找一块.md的编辑工具          | 0.5        | 1h     |
+| 3   | x下载安装marktext的.md编辑工具 | 0.5        | 1h     |
